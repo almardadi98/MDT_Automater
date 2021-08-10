@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <History>True|2021-05-03T15:30:24.5611780Z;True|2021-05-03T15:22:01.1591650+00:00;True|2021-04-30T15:43:58.7344982+00:00;True|2021-04-30T08:49:40.5712266+00:00;True|2021-04-30T08:44:37.3174623+00:00;False|2021-04-30T08:43:54.3666157+00:00;True|2021-04-29T15:00:51.8223720+00:00;True|2021-04-29T13:41:09.9787343+00:00;True|2021-04-29T09:45:50.5619677+00:00;True|2021-04-29T08:31:34.7026204+00:00;True|2021-04-17T18:26:21.4152931+00:00;True|2021-04-17T18:23:58.1062369+00:00;</History>
+    <_PublishTargetUrl>c:\utd\MDTPrinter</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>
